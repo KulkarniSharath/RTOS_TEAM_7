@@ -12,3 +12,11 @@ Why FreeRTOS?
 * Broad ecosystem support
 * Ease of use
 
+Details
+|Teammates |Ps No.|Photo|
+|----------|------|-----|
+|Sanket Kamble|99007844| |
+|Sumeet Gokhare|99007851| |
+|K Mohammad Habeeb|99007895| |
+|Sharath Kulkarni |99007894|![Sharath new](https://user-images.githubusercontent.com/98825618/168003191-0a2daf3b-63d3-456d-b0fb-5cea9076f6b4.jpg)
+ |
