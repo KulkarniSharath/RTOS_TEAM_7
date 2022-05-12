@@ -21,6 +21,7 @@ Advantage of using RTOS :
 * GUI (Graphical User Interface).
 
 Basic elements of RTOS :
+
 * Scheduler
 * Scheduling Points
 * Context Switch Routine
